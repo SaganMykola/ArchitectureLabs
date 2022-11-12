@@ -1,0 +1,15 @@
+C:\Users\Kolya\source\repos\module\obj\Debug\net6.0\module.csproj.AssemblyReference.cache
+C:\Users\Kolya\source\repos\module\obj\Debug\net6.0\module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kolya\source\repos\module\obj\Debug\net6.0\module.AssemblyInfoInputs.cache
+C:\Users\Kolya\source\repos\module\obj\Debug\net6.0\module.AssemblyInfo.cs
+C:\Users\Kolya\source\repos\module\obj\Debug\net6.0\module.csproj.CoreCompileInputs.cache
+C:\Users\Kolya\source\repos\module\bin\Debug\net6.0\module.exe
+C:\Users\Kolya\source\repos\module\bin\Debug\net6.0\module.deps.json
+C:\Users\Kolya\source\repos\module\bin\Debug\net6.0\module.runtimeconfig.json
+C:\Users\Kolya\source\repos\module\bin\Debug\net6.0\module.dll
+C:\Users\Kolya\source\repos\module\bin\Debug\net6.0\ref\module.dll
+C:\Users\Kolya\source\repos\module\bin\Debug\net6.0\module.pdb
+C:\Users\Kolya\source\repos\module\obj\Debug\net6.0\module.dll
+C:\Users\Kolya\source\repos\module\obj\Debug\net6.0\ref\module.dll
+C:\Users\Kolya\source\repos\module\obj\Debug\net6.0\module.pdb
+C:\Users\Kolya\source\repos\module\obj\Debug\net6.0\module.genruntimeconfig.cache
